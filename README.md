@@ -9,3 +9,5 @@ We implemented a lot of machine learning algorithms from Random Forest to CNN an
 
 The dataset used can be found here: http://www.peterjbentley.com/heartchallenge/index.html. It is also present inside this repo.
 The major challenge this dataset gave us was trating heavy class imbalance in training data. Hence we have recorded the result in both scenarios and played a lot with upsampling to deal with the same.
+
+You can find more information about the project on Medium : https://medium.com/@vishwakvv29/heartbeat-audio-classification-using-machine-learning-305e568efecc
